@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Cloud Architect
 - 💞️ I’m looking to collaborate on Cloud projects
-- 📫 How to reach me (ope.jokanola@hmail.com)
+- 📫 How to reach me (ope.jokanola@gmail.com)
 
 <!---
 OpssyDO/OpssyDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
